@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep example environment configuration if we create one later
+!.env.example
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
