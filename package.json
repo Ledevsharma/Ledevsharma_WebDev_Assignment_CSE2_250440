@@ -1,0 +1,20 @@
+{
+  "name": "ledev-blog-api",
+  "version": "1.0.0",
+  "description": "Blog API using Node.js, Express and MongoDB",
+  "homepage": "https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440#readme",
+  "bugs": {
+    "url": "https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440.git"
+  },
+  "license": "ISC",
+  "author": "Ledev Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
