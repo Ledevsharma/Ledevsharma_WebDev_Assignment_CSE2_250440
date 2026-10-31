@@ -1,7 +1,7 @@
 {
-  "name": "intro-to-backend",
+  "name": "ledevsharma-webdev-assignment",
   "version": "1.0.0",
-  "description": "a tutorial for intro to backend",
+  "description": "Blog API project using Node.js, Express.js and MongoDB",
   "main": "backend/src/index.js",
   "type": "module",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewSmoke38/intro-to-backend.git"
+    "url": "git+https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440.git"
   },
-  "author": "Shivani",
+  "author": "Ledev Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NewSmoke38/intro-to-backend/issues"
+    "url": "https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440/issues"
   },
-  "homepage": "https://github.com/NewSmoke38/intro-to-backend#readme",
+  "homepage": "https://github.com/Ledevsharma/Ledevsharma_WebDev_Assignment_CSE2_250440#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "dotenv": "^17.2.2",
